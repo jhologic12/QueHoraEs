@@ -1,0 +1,17 @@
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\bin\Debug\net6.0-windows\QueHoraEs.exe
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\bin\Debug\net6.0-windows\QueHoraEs.deps.json
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\bin\Debug\net6.0-windows\QueHoraEs.runtimeconfig.json
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\bin\Debug\net6.0-windows\QueHoraEs.dll
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\bin\Debug\net6.0-windows\QueHoraEs.pdb
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.csproj.AssemblyReference.cache
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.Form1.resources
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.csproj.GenerateResource.cache
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.AssemblyInfoInputs.cache
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.AssemblyInfo.cs
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.csproj.CoreCompileInputs.cache
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.dll
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\refint\QueHoraEs.dll
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.pdb
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\QueHoraEs.genruntimeconfig.cache
+E:\Proyectos C sharp\QueHoraEs\QueHoraEs\obj\Debug\net6.0-windows\ref\QueHoraEs.dll
